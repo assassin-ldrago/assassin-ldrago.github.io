@@ -1,10 +1,7 @@
-# Project Name
-A brief description of the project.
-
-## How to Use
-- Step 1: Clone the repository.
-- Step 2: Follow the instructions in `README.md`.
-
-## Features
-- Feature 1
-- Feature 2
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
